@@ -1,1 +1,3 @@
-# lightpage
+---
+permalink: /index.html
+---
